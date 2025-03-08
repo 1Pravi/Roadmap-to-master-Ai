@@ -310,7 +310,6 @@ An interactive guide to becoming an AI Full-Stack Engineer with expertise in Dee
   - FastAPI
   - Flask
   - Django
-  - Express.js
   
 - [ ] **API Design**
   - REST principles
@@ -332,8 +331,7 @@ An interactive guide to becoming an AI Full-Stack Engineer with expertise in Dee
 
 #### Frontend Development
 - [ ] **Modern Frameworks**
-  - React.js
-  - Next.js
+  - React.js(Basics) 
   - Tailwind CSS
   - State management
   
@@ -385,29 +383,3 @@ After completing this roadmap, you should be able to:
 
 **Timeline**: This roadmap is designed to help you become a high-value AI Full-Stack Engineer within 6 months of dedicated learning and practice.
 
----
-
-## Resources
-
-### Online Courses
-- Fast.ai - Practical Deep Learning
-- DeepLearning.AI specializations
-- Hugging Face courses
-- Stanford CS224N (NLP) and CS231N (CV)
-
-### Books
-- "Deep Learning" by Goodfellow, Bengio, and Courville
-- "Hands-On Machine Learning" by Aurélien Géron
-- "Designing Machine Learning Systems" by Chip Huyen
-
-### Communities
-- Hugging Face community
-- AI Discord servers
-- GitHub repositories
-- Kaggle competitions
-
-### Practice Projects
-- Fine-tune an LLM for a specific domain
-- Build a RAG-based document assistant
-- Deploy an image generation model
-- Create a full-stack AI web application
